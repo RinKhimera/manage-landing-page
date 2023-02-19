@@ -1,4 +1,4 @@
-# Mamage Landing Page
+# Manage Landing Page
 
 This is a landing page website built with Next.js, Tailwind CSS, and TypeScript.
 
